@@ -1,0 +1,24 @@
+D:\Projects\Visual Studio\EmailPraktika\EmailPraktika\bin\Debug\EmailPraktika.exe.config
+D:\Projects\Visual Studio\EmailPraktika\EmailPraktika\bin\Debug\EmailPraktika.exe
+D:\Projects\Visual Studio\EmailPraktika\EmailPraktika\bin\Debug\EmailPraktika.pdb
+D:\Projects\Visual Studio\EmailPraktika\EmailPraktika\obj\Debug\EmailPraktika.csprojAssemblyReference.cache
+D:\Projects\Visual Studio\EmailPraktika\EmailPraktika\obj\Debug\EmailPraktika.Form1.resources
+D:\Projects\Visual Studio\EmailPraktika\EmailPraktika\obj\Debug\EmailPraktika.Properties.Resources.resources
+D:\Projects\Visual Studio\EmailPraktika\EmailPraktika\obj\Debug\EmailPraktika.csproj.GenerateResource.cache
+D:\Projects\Visual Studio\EmailPraktika\EmailPraktika\obj\Debug\EmailPraktika.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\EmailPraktika\EmailPraktika\obj\Debug\EmailPraktika.exe
+D:\Projects\Visual Studio\EmailPraktika\EmailPraktika\obj\Debug\EmailPraktika.pdb
+D:\Projects\Visual Studio\EmailPraktika\EmailPraktika\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Projects\Visual Studio\EmailPraktika\EmailPraktika\obj\Debug\EmailPraktika.csproj.CopyComplete
+D:\Programs\Загрузки\EmailPraktika\EmailPraktika\bin\Debug\EmailPraktika.exe.config
+D:\Programs\Загрузки\EmailPraktika\EmailPraktika\bin\Debug\EmailPraktika.exe
+D:\Programs\Загрузки\EmailPraktika\EmailPraktika\bin\Debug\EmailPraktika.pdb
+D:\Programs\Загрузки\EmailPraktika\EmailPraktika\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Programs\Загрузки\EmailPraktika\EmailPraktika\obj\Debug\EmailPraktika.csprojAssemblyReference.cache
+D:\Programs\Загрузки\EmailPraktika\EmailPraktika\obj\Debug\EmailPraktika.Form1.resources
+D:\Programs\Загрузки\EmailPraktika\EmailPraktika\obj\Debug\EmailPraktika.Properties.Resources.resources
+D:\Programs\Загрузки\EmailPraktika\EmailPraktika\obj\Debug\EmailPraktika.csproj.GenerateResource.cache
+D:\Programs\Загрузки\EmailPraktika\EmailPraktika\obj\Debug\EmailPraktika.csproj.CoreCompileInputs.cache
+D:\Programs\Загрузки\EmailPraktika\EmailPraktika\obj\Debug\EmailPraktika.csproj.CopyComplete
+D:\Programs\Загрузки\EmailPraktika\EmailPraktika\obj\Debug\EmailPraktika.exe
+D:\Programs\Загрузки\EmailPraktika\EmailPraktika\obj\Debug\EmailPraktika.pdb
